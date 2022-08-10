@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🌱 My major is Digital Agriculture Tech. I study Python, JavaScript, HTML, and CSS. 
+Currently, I am studying about the front-end, reading a book, watching related YouTube, and studying on my own.
+These days, I most focused on plant smart-farm environmental control using Arduino and raspberry pie.
+⚡ Fun fact: I've gained weight lately, so I'm doing free weight training.
+
 <a href="https://www.instagram.com/_ffe4el/">
   <img align="middle" alt="SOLA's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
