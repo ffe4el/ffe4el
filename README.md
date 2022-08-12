@@ -38,7 +38,7 @@ These days, I most focused on plant smart-farm environmental control using Ardui
 <br><br></p>
 
 <!-- 깃허브레벨, 자주쓰는 언어 -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ffe4el&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ffe4el&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffe4el&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></p>
 
 
