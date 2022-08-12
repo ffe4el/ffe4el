@@ -25,9 +25,13 @@ Here are some ideas to get you started:
 <h4 align="center">🌱 My major is Digital Agriculture Tech. I study Python, JavaScript, HTML, and CSS. 
 Currently, I am studying about the front-end, reading a book, watching related YouTube, and studying on my own.
 These days, I most focused on plant smart-farm environmental control using Arduino and raspberry pie.</h4>
+
+
+<p align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<br>
+<br></p>
+  
 <h4 align="center">⚡ Fun fact: I've gained weight lately, so I'm doing free weight training.</h4>
 
 <br>
