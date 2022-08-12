@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"><a href="https://www.instagram.com/_ffe4el/">
-  <img align="middle" alt="SOLA's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a></p>
-<p align="center"><a href="https://discord.gg/c5AFv3E6qv">
-  <img align="middle" alt="SOLA's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a></p>
+  <img align="middle" alt="SOLA's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
+  <a href="https://discord.gg/c5AFv3E6qv">
+  <img align="middle" alt="SOLA's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a></p>
 
 
 <h4 align="center">🌱 My major is Digital Agriculture Tech. I study Python, JavaScript, HTML, and CSS. 
