@@ -38,13 +38,13 @@ These days, I most focused on plant smart-farm environmental control using Ardui
 <br><br></p> -->
 <p align="center">
 <!--   python -->
-  <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code> 
+  <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code> 
 <!--   html -->
-  <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></code>
+  <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></code>
 <!--   css -->
-  <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
+  <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
 <!--   javascript -->
-  <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"></code>
+  <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"></code>
 <br><br></p>
 
 
