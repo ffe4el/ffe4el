@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a align="center" href="https://www.instagram.com/_ffe4el/">
+<a href="https://www.instagram.com/_ffe4el/">
   <img align="middle" alt="SOLA's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a align="center" href="https://discord.gg/c5AFv3E6qv">
+<a href="https://discord.gg/c5AFv3E6qv">
   <img align="middle" alt="SOLA's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
@@ -37,7 +37,7 @@ These days, I most focused on plant smart-farm environmental control using Ardui
 <br>
 <br>
 
-<p align="center">![Github Stats](https://github-readme-stats.vercel.app/api?username=ffe4el&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ffe4el&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></p>
 
 ![](https://raw.githubusercontent.com/ffe4el/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/ffe4el/github-stats-transparent/output/generated/languages.svg)
