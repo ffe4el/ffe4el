@@ -1,5 +1,5 @@
 <!-- 인사말 -->
-<h1 align="center">Hi 👋, I'm SOLA</h1>
+<h1 align="center">HI 👋, I'M SOLA</h1>
 <h3 align="center">A passionate frond-end student from South Korea</h3>
 
 <!--
@@ -32,10 +32,16 @@ These days, I most focused on plant smart-farm environmental control using Ardui
 
 <!-- 사용하는 언어와 도구들 -->
 <h4 align="center"> languages and tools<h4>
-<p align="center">
+<!-- <p align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<br><br></p> -->
+<p align="center">
+  <code>[python]<img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
+  <code>[html]<img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></code>
+  <code>[css]<img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
 <br><br></p>
+
 
 <!-- 깃허브레벨, 자주쓰는 언어 -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ffe4el&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"><br>
