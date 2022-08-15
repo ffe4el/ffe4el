@@ -27,6 +27,10 @@ Here are some ideas to get you started:
   <img align="middle" alt="SOLA's Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
   <a href="https://discord.gg/c5AFv3E6qv">
   <img align="middle" alt="SOLA's Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
+  <br>you can also visit my git-log! click here!<br>
+  <a href="https://ffe4el.github.io/">
+  <img align="middle" alt="SOL-LOG" width="50px" src="https://user-images.githubusercontent.com/93892724/184592546-6030ce51-0d9c-469c-82b9-0dfe86177c65.png" /></a>
+  
 </h4>
 
 
