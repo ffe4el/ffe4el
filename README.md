@@ -2,7 +2,7 @@
 <h1 align="center">HI 👋, I'M SOLA</h1>
 
 <!-- 고양이 밈 -->
-<h3 align="center"><img height="100" src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png">
+<h3 align="center"><img height="100" src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png"><br>
 A passionate frond-end student from South Korea</h3>
 
 <!--
