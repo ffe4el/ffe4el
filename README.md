@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- 인스타, 디코 주소 -->
 <h4 align="center">
-  Contanct Me!
+  Contanct Me!    
   <a href="https://www.instagram.com/_ffe4el/">
   <img align="middle" alt="SOLA's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
   <a href="https://discord.gg/c5AFv3E6qv">
