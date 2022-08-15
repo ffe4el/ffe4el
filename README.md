@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- 인스타, 디코 주소 -->
-<p align="center">
-  <h4>Contanct Me!</h4> 
+<h4 align="center">
+  Contanct Me!
   <a href="https://www.instagram.com/_ffe4el/">
   <img align="middle" alt="SOLA's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
   <a href="https://discord.gg/c5AFv3E6qv">
   <img align="middle" alt="SOLA's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
-</p>
+</h4>
 
 <!-- 간단 소개 -->
 <h4 align="center">🌱 My major is Digital Agriculture Tech. I study Python, JavaScript, HTML, and CSS. 
@@ -33,10 +33,12 @@ These days, I most focused on plant smart-farm environmental control using Ardui
 <br>⚡ Fun fact: I've gained weight lately, so I'm doing free weight training.</h4>
 
 <!-- 사용하는 언어와 도구들 -->
-<h4 align="center"> languages and tools<h4>
+<h4 align="center"> languages and tools: <h4>
 <!-- <p align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+
 <br><br></p> -->
 <p align="center">
 <!--   python -->
@@ -47,6 +49,12 @@ These days, I most focused on plant smart-farm environmental control using Ardui
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
 <!--   javascript -->
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"></code>
+<!--   vs code -->
+  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<!--   pycharm -->
+  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png"></code>
+<!--   jupyter -->
+  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></code>
 <br><br></p>
 
 
