@@ -2,8 +2,8 @@
 <h1 align="center">HI 👋, I'M SOLA</h1>
 
 <!-- 고양이 밈 -->
-<p align="center"><img height="100" src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png"></p>
-<h3 align="center">A passionate frond-end student from South Korea</h3>
+<h3 align="center"><img height="100" src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png">
+A passionate frond-end student from South Korea</h3>
 
 <!--
 **ffe4el/ffe4el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
