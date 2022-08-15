@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 
 <!-- 인스타, 디코 주소 -->
 <p align="center">
-  <h4>Contanct Me!</h4> <a href="https://www.instagram.com/_ffe4el/">
+  <h4>Contanct Me!</h4> 
+  <a href="https://www.instagram.com/_ffe4el/">
   <img align="middle" alt="SOLA's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
   <a href="https://discord.gg/c5AFv3E6qv">
-  <img align="middle" alt="SOLA's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a></p>
+  <img align="middle" alt="SOLA's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
+</p>
 
 <!-- 간단 소개 -->
 <h4 align="center">🌱 My major is Digital Agriculture Tech. I study Python, JavaScript, HTML, and CSS. 
@@ -57,15 +59,4 @@ These days, I most focused on plant smart-farm environmental control using Ardui
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> -->
 
-<img src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png">
-  
-  
-  
-  
-  
-<!-- 
-<!-- random memer -->
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-<!-- random meme gif -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> -->
-
+<p align="center"><img src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png"></p>
