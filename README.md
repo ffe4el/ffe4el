@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 인스타, 디코 주소 -->
-<h4 align="center">
-  Contanct Me!    
-  <a href="https://www.instagram.com/_ffe4el/">
-  <img align="middle" alt="SOLA's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
-  <a href="https://discord.gg/c5AFv3E6qv">
-  <img align="middle" alt="SOLA's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
-</h4>
-
-
 <!-- 고양이 밈 -->
 <p align="center"><img height="100" src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png"></p>
+
+<!-- 인스타, 디코 주소 -->
+<h4 align="center">
+  Contanct Me!<br>
+  <a href="https://www.instagram.com/_ffe4el/">
+  <img align="middle" alt="SOLA's Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
+  <a href="https://discord.gg/c5AFv3E6qv">
+  <img align="middle" alt="SOLA's Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
+</h4>
+
 
 <!-- 간단 소개 -->
 <h4 align="center">🌱 My major is Digital Agriculture Tech. I study Python, JavaScript, HTML, and CSS.<br>
