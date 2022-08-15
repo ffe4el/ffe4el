@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 <!-- 고양이 밈 -->
-<p align="center"><img src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png"></p>
+<p align="center"><img height="100" src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png"></p>
 
 <!-- 간단 소개 -->
 <h4 align="center">🌱 My major is Digital Agriculture Tech. I study Python, JavaScript, HTML, and CSS.<br>
