@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h4 align="center">🌱 My major is Digital Agriculture Tech. I study Python, JavaScript, HTML, and CSS. 
 Currently, I am studying about the front-end, reading a book, watching related YouTube, and studying on my own.
 These days, I most focused on plant smart-farm environmental control using Arduino and raspberry pie.
-⚡ Fun fact: I've gained weight lately, so I'm doing free weight training.</h4>
+<br>⚡ Fun fact: I've gained weight lately, so I'm doing free weight training.</h4>
 
 <!-- 사용하는 언어와 도구들 -->
 <h4 align="center"> languages and tools<h4>
@@ -57,8 +57,15 @@ These days, I most focused on plant smart-farm environmental control using Ardui
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> -->
 
+<img src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png">
+  
+  
+  
+  
+  
+<!-- 
 <!-- random memer -->
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 <!-- random meme gif -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> -->
 
