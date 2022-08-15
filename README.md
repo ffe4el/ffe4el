@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png"></p>
 
 <!-- 간단 소개 -->
-<h4 align="center">🌱 My major is Digital Agriculture Tech. I study Python, JavaScript, HTML, and CSS. 
-Currently, I am studying about the front-end, reading a book, watching related YouTube, and studying on my own.
+<h4 align="center">🌱 My major is Digital Agriculture Tech. I study Python, JavaScript, HTML, and CSS.<br>
+Currently, I am studying about the front-end, reading a book, watching related YouTube, and studying on my own.<br>
 These days, I most focused on plant smart-farm environmental control using Arduino and raspberry pie.
 <br>⚡ Fun fact: I've gained weight lately, so I'm doing free weight training.</h4>
 <br>
