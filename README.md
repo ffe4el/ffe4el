@@ -1,5 +1,8 @@
 <!-- 인사말 -->
 <h1 align="center">HI 👋, I'M SOLA</h1>
+
+<!-- 고양이 밈 -->
+<p align="center"><img height="100" src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png"></p>
 <h3 align="center">A passionate frond-end student from South Korea</h3>
 
 <!--
@@ -17,9 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 고양이 밈 -->
-<p align="center"><img height="100" src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png"></p>
-
 <!-- 인스타, 디코 주소 -->
 <h4 align="center">
   Contanct Me!<br>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align="middle" alt="SOLA's Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
   <a href="https://discord.gg/c5AFv3E6qv">
   <img align="middle" alt="SOLA's Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
-  <br>you can also visit my git-log! click here!<br>
+  <br><br>you can also visit my git-log! click here!<br>
   <a href="https://ffe4el.github.io/">
   <img align="middle" alt="SOL-LOG" width="50px" src="https://user-images.githubusercontent.com/93892724/184592546-6030ce51-0d9c-469c-82b9-0dfe86177c65.png" /></a>
   
