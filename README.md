@@ -59,6 +59,8 @@ These days, I most focused on plant smart-farm environmental control using Ardui
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
 <!--   javascript -->
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"></code>
+<!--   C++ -->
+  <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></code>
 <!--   vs code -->
   <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <!--   pycharm -->
@@ -66,6 +68,7 @@ These days, I most focused on plant smart-farm environmental control using Ardui
 <!--   jupyter -->
   <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></code>
 <br><br></p>
+
 
 
 <!-- 깃허브레벨, 자주쓰는 언어 -->
