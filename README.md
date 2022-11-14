@@ -3,7 +3,7 @@
 
 <!-- 고양이 밈 -->
 <h3 align="center"><img height="100" src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png"><br>
-A passionate frond-end student from South Korea</h3>
+A passionate student from South Korea</h3>
 
 <!--
 **ffe4el/ffe4el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,11 +35,7 @@ Here are some ideas to get you started:
 
 
 <!-- 간단 소개 -->
-<h4 align="center">🌱 My major is Digital Agriculture Tech. I study Python, JavaScript, HTML, and CSS.<br>
-Currently, I am studying about the front-end, reading a book, watching related YouTube, and studying on my own.<br>
-These days, I most focused on plant smart-farm environmental control using Arduino and raspberry pie.
-<br>⚡ Fun fact: I've gained weight lately, so I'm doing free weight training.</h4>
-<br>
+<h4 align="center">🌱 major : Digital Agriculture Tech.<br>
 
 <!-- 사용하는 언어와 도구들 -->
 <h4 align="center"> languages and tools: <h4>
