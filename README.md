@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <!--   javascript -->
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"></code>
 <!--   C -->
-  <code><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvelog.io%2F%40qlwb7187%2FC%25EC%2596%25B8%25EC%2596%25B4-%25ED%258C%258C%25EC%259D%25BC%25EB%25B6%2584%25ED%2595%25A0-%25EC%2598%2588%25EC%25A0%259C&psig=AOvVaw1ZjgTPuS3qlDC9s4LqMCF_&ust=1672982954165000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIitn6fZr_wCFQAAAAAdAAAAABAQ"></code>
+  <code><img height="30" src="https://user-images.githubusercontent.com/93892724/210708533-60adaa42-cf77-4ffb-8576-246512979764.png"></code>
 <!--   C++ -->
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></code>
 <!--   vs code -->
