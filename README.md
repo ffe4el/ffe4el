@@ -55,6 +55,8 @@ Here are some ideas to get you started:
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
 <!--   javascript -->
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"></code>
+<!--   C -->
+  <code><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.it-note.kr%2F272&psig=AOvVaw1ZjgTPuS3qlDC9s4LqMCF_&ust=1672982954165000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIitn6fZr_wCFQAAAAAdAAAAABAE"></code>
 <!--   C++ -->
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></code>
 <!--   vs code -->
