@@ -67,9 +67,13 @@ Here are some ideas to get you started:
   <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <!--   pycharm -->
   <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png"></code>
+<!--   Clion -->
+<code><img height="30" src="https://user-images.githubusercontent.com/93892724/211053466-f8474354-71fd-486e-bacf-4b597d98dc8e.png"></code>
 <!--   jupyter -->
   <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></code>
 <br><br></p>
+
+  
 
 
 
