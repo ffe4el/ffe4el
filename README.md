@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 
 <!-- 간단 소개 -->
 <h4 align="center">🌱 major : Digital Agriculture Tech.<br></h4>
-<h3 align="center">now focusing 👇🏻 <br></h3>
-
+<!-- <h3 align="center">now focusing 👇🏻 <br></h3> -->
+<!-- 
 <p align="center"><img height="30" src="https://user-images.githubusercontent.com/93892724/210709702-f6531916-f6aa-4f00-9ae1-4df12e82e023.png"><br><br>
-<img height="50" alt="image" src="https://user-images.githubusercontent.com/93892724/210710121-25dc6500-2d7f-45b6-b09a-8cfe889455e0.png"></p>
+<img height="50" alt="image" src="https://user-images.githubusercontent.com/93892724/210710121-25dc6500-2d7f-45b6-b09a-8cfe889455e0.png"></p> -->
 
 <!-- 사용하는 언어와 도구들 -->
 <h4 align="center"> languages and tools: <h4>
