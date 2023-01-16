@@ -1,6 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fffe4el&count_bg=%23FF7676&title_bg=%23000000&icon=openai.svg&icon_color=%23E5A0A0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- 인사말 -->
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=20&section=header&text=HI 👋, I'M SOLA&fontSize=25)
 <h1 align="center">HI 👋, I'M SOLA</h1>
 
 <!-- 고양이 밈 -->
