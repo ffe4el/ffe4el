@@ -5,8 +5,8 @@
 <h3 align="center"><img height="100" src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png"></h3><br>
 
 <p align="center">
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fffe4el&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fffe4el&count_bg=%23FF7676&title_bg=%23000000&icon=openai.svg&icon_color=%23E5A0A0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</p>
 
 <!--
 **ffe4el/ffe4el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
