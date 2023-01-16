@@ -2,7 +2,7 @@
 
 <!-- 인사말 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=#FFE4E1&height=200&section=header&text=SOLA%20GITHUB&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=#FFE4E1&height=300&section=header&text=SOLA%20GITHUB&fontSize=90)
 <!-- <h1 align="center">HI 👋, I'M SOLA</h1> -->
 
 <!-- 고양이 밈 -->
