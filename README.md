@@ -2,11 +2,10 @@
 
 <!-- 인사말 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SOLA%20GITHUB🎀&fontSize=90&animation=fadeIn&fontAlignY=38&desc=studying%20computer%20programming&descAlignY=51&descAlign=62)
-<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=#FFE4E1&height=300&section=header&text=SOLA%20GITHUB&fontSize=90) -->
 <!-- <h1 align="center">HI 👋, I'M SOLA</h1> -->
 
 <!-- 고양이 밈 -->
-<h3 align="center"><img height="100" src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png"></h3><br>
+<!-- <h3 align="center"><img height="100" src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png"></h3><br> -->
 
 
 
