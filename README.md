@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fffe4el&count_bg=%23FF7676&title_bg=%23000000&icon=openai.svg&icon_color=%23E5A0A0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- 인사말 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SOLA%20GITHUB🎀&fontSize=90&animation=fadeIn&fontAlignY=38&desc=studying%20computer%20programming&descAlignY=51&descAlign=62)
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=#FFE4E1&height=300&section=header&text=SOLA%20GITHUB&fontSize=90) -->
 <!-- <h1 align="center">HI 👋, I'M SOLA</h1> -->
 
