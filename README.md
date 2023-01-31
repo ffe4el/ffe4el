@@ -69,7 +69,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffe4el&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></p>
 
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/codkan/)
+<p align="center">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/codkan/)</p>
 
 <!-- <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
