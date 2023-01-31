@@ -6,7 +6,11 @@
 
 <!-- 고양이 밈 -->
 <!-- <h3 align="center"><img height="100" src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png"></h3><br> -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/codkan/)
+
+<!-- 백준레벨 -->
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/codkan/) -->
+
+
 <!-- 인스타, 디코 주소 -->
 <h4 align="center">
   Contanct Me! &nbsp;
