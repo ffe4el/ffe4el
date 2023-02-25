@@ -30,17 +30,9 @@
 <!-- 
 <p align="center"><img height="30" src="https://user-images.githubusercontent.com/93892724/210709702-f6531916-f6aa-4f00-9ae1-4df12e82e023.png"><br><br>
 <img height="50" alt="image" src="https://user-images.githubusercontent.com/93892724/210710121-25dc6500-2d7f-45b6-b09a-8cfe889455e0.png"></p> -->
-
+</div>
 <!-- 사용하는 언어와 도구들 -->
-<h4> languages and tools: </h4>
-
-<!-- <p align="center">
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<br><br></p> -->
-  
-  
-
+  <h4> languages and tools: </h4>
 <!--   python -->
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code> 
 <!--   html -->
@@ -63,7 +55,7 @@
   <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></code>
 <br><br>
 
-  
+<div align=center>  
 <!-- 백준레벨 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/codkan)</div>
   
