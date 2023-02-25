@@ -11,7 +11,7 @@
 
 
 <!-- 인스타, 디코 주소 -->
-<h4 align="center">
+<div align=center><h4>
   Contanct Me! &nbsp;
   <a href="https://www.instagram.com/_ffe4el/">
   <img align="middle" alt="SOLA's Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
@@ -32,7 +32,7 @@
 <img height="50" alt="image" src="https://user-images.githubusercontent.com/93892724/210710121-25dc6500-2d7f-45b6-b09a-8cfe889455e0.png"></p> -->
 
 <!-- 사용하는 언어와 도구들 -->
-<h4 align="center"> languages and tools: <h4>
+<h4> languages and tools: </h4>
 
 <!-- <p align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -40,7 +40,7 @@
 <br><br></p> -->
   
   
-<p align="center">
+
 <!--   python -->
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code> 
 <!--   html -->
@@ -61,11 +61,11 @@
 <code><img height="30" src="https://user-images.githubusercontent.com/93892724/211053466-f8474354-71fd-486e-bacf-4b597d98dc8e.png"></code>
 <!--   jupyter -->
   <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></code>
-<br><br></p>
+<br><br>
 
   
 <!-- 백준레벨 -->
-<div align=center>[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/codkan)</div>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/codkan)</div>
   
   
 <!-- 깃허브레벨, 자주쓰는 언어 -->
