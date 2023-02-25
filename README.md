@@ -8,7 +8,7 @@
 <!-- <h3 align="center"><img height="100" src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png"></h3><br> -->
 
 <!-- 백준레벨 -->
-<h2 align="center">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/codkan/)</h2>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/codkan/)
 
 
 <!-- 인스타, 디코 주소 -->
