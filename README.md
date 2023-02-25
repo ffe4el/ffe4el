@@ -7,8 +7,7 @@
 <!-- 고양이 밈 -->
 <!-- <h3 align="center"><img height="100" src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png"></h3><br> -->
 
-<!-- 백준레벨 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/codkan/)
+
 
 
 <!-- 인스타, 디코 주소 -->
@@ -65,7 +64,8 @@
 <br><br></p>
 
   
-
+<!-- 백준레벨 -->
+<p align="center">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/codkan/)</p>
 
 
 <!-- 깃허브레벨, 자주쓰는 언어 -->
