@@ -65,7 +65,7 @@
 
   
 <!-- 백준레벨 -->
-<p align="center">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/codkan/)</p>
+<div align="center">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/codkan/)</div>
 
 
 <!-- 깃허브레벨, 자주쓰는 언어 -->
