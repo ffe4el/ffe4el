@@ -8,7 +8,7 @@
 <!-- <h3 align="center"><img height="100" src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png"></h3><br> -->
 
 <!-- 백준레벨 -->
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/codkan/) -->
+<h2 align="center">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/codkan/)</h2>
 
 
 <!-- 인스타, 디코 주소 -->
@@ -69,11 +69,11 @@
 
 
 <!-- 깃허브레벨, 자주쓰는 언어 -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ffe4el&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ffe4el&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffe4el&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></p>
-
+ -->
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/codkan/)
+
   
 
 <!-- <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
