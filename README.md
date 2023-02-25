@@ -65,9 +65,11 @@
 
   
 <!-- 백준레벨 -->
-<div align="center">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/codkan/)</div>
-
-
+<div align="center">[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/백준아이디)
+</div>
+  
+  
 <!-- 깃허브레벨, 자주쓰는 언어 -->
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ffe4el&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffe4el&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></p>
