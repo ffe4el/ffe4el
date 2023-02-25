@@ -20,7 +20,10 @@
   <br>you can also visit my git-log! click here! &nbsp;
   <a href="https://ffe4el.github.io/">
   <img align="middle" alt="SOL-LOG" width="40px" src="https://user-images.githubusercontent.com/93892724/184592546-6030ce51-0d9c-469c-82b9-0dfe86177c65.png" /></a>
-</h4></div>
+</h4><br><br>
+<!-- 백준레벨 -->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/codkan)
+</div>
 
 
 <!-- 사용하는 언어와 도구들 -->
@@ -47,10 +50,6 @@
 <!--   jupyter -->
   <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></code>
 <br><br></p>
-  
-<p align=center> 
-<!-- 백준레벨 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/codkan)</p>
   
   
 <!-- 깃허브레벨, 자주쓰는 언어 -->
