@@ -19,7 +19,7 @@
   <img align="middle" alt="SOLA's Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
   <br>you can also visit my git-log! click here! &nbsp;
   <a href="https://ffe4el.github.io/">
-  <img align="middle" alt="SOL-LOG" width="40px" src="https://user-images.githubusercontent.com/93892724/184592546-6030ce51-0d9c-469c-82b9-0dfe86177c65.png" /></a>
+  <img align="middle" alt="SOL-LOG" width="40px" src="https://user-images.githubusercontent.com/93892724/184592546-6030ce51-0d9c-469c-82b9-0dfe86177c65.png" /></a><br>
 
 <!-- 백준레벨 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/백준아이디)
