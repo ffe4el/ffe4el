@@ -20,19 +20,12 @@
   <br>you can also visit my git-log! click here! &nbsp;
   <a href="https://ffe4el.github.io/">
   <img align="middle" alt="SOL-LOG" width="40px" src="https://user-images.githubusercontent.com/93892724/184592546-6030ce51-0d9c-469c-82b9-0dfe86177c65.png" /></a>
-  
-</h4>
+</h4></div>
 
 
-<!-- 간단 소개 -->
-<h4 align="center">🌱 major : Digital Agriculture Tech.</h4>
-<!-- <h3 align="center">now focusing 👇🏻 <br></h3> -->
-<!-- 
-<p align="center"><img height="30" src="https://user-images.githubusercontent.com/93892724/210709702-f6531916-f6aa-4f00-9ae1-4df12e82e023.png"><br><br>
-<img height="50" alt="image" src="https://user-images.githubusercontent.com/93892724/210710121-25dc6500-2d7f-45b6-b09a-8cfe889455e0.png"></p> -->
-</div>
 <!-- 사용하는 언어와 도구들 -->
-  <h4> languages and tools: </h4>
+  <h4 align=center> languages and tools: </h4>
+<p align=center>
 <!--   python -->
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code> 
 <!--   html -->
@@ -54,10 +47,10 @@
 <!--   jupyter -->
   <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></code>
 <br><br>
-
-<div align=center>  
+  
+  
 <!-- 백준레벨 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/codkan)</div>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/codkan)</p>
   
   
 <!-- 깃허브레벨, 자주쓰는 언어 -->
