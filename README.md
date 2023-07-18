@@ -8,7 +8,7 @@
 
 
 <!-- 사용하는 언어와 도구들 -->
-📚 Stack <br>
+📚 Lang & Stack <br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -28,3 +28,5 @@
 [2023/7/17 - Spring - 빈 스코프](https://ffe4el.tistory.com/70) <br>
 [2023/7/16 - Spring - 빈 생명주기 콜백](https://ffe4el.tistory.com/69) <br>
 [2023/7/16 - Spring - 자동과 수동 주입의 올바른 운영 기준](https://ffe4el.tistory.com/68) <br>
+[2023/7/16 - Spring - 조회한 빈이 모두 필요할때는 List와 Map 사용](https://ffe4el.tistory.com/67) <br>
+[2023/7/15 - [논문리뷰][딥러닝/컴퓨터비젼] Bringing Old Photos Back to Life](https://ffe4el.tistory.com/66) <br>
