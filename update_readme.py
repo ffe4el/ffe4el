@@ -23,9 +23,12 @@ markdown_text = """[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/백준아이디)
 </div>
 
+📬  Contact Email : codkan20@gmail.com
+
+👨🏻‍💻  Tech & Daily Blog : https://ffe4el.tistory.com
 
 <!-- 사용하는 언어와 도구들 -->
-📚 Lang & Stack <br>
+📚  Lang & Stack : <br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -39,6 +42,9 @@ markdown_text = """[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg
 <br> 
 <br>  
 <h3>🤩 Latest Blog Post</h3>
+
+
+
 """
 
 readme_text = f"{markdown_text}{latest_blog_post_list}"
