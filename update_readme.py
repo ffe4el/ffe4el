@@ -28,7 +28,7 @@ markdown_text = """[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg
 👨🏻‍💻  Tech & Daily Blog : https://ffe4el.tistory.com
 
 <!-- 사용하는 언어와 도구들 -->
-📚  Lang & Stack :
+📚  Lang & Stack :<br><br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
