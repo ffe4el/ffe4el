@@ -17,11 +17,11 @@ for idx, feed in enumerate(rss_feed['entries']):
 
 markdown_text = """[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fffe4el&count_bg=%23FF7676&title_bg=%23000000&icon=openai.svg&icon_color=%23E5A0A0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 .
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SOLA%20GITHUB🎀&fontSize=90&animation=fadeIn&fontAlignY=38&desc=studying%20GenerativeAI%20and%20FullStack&descAlignY=51&descAlign=62)
 
 <!-- 백준레벨 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/백준아이디)
-</h4></div>
+</div>
 
 
 <!-- 사용하는 언어와 도구들 -->
@@ -46,19 +46,13 @@ markdown_text = """[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <!-- flask -->
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<br><br>
-  
-  
-<!-- 깃허브레벨, 자주쓰는 언어 -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ffe4el&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffe4el&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></p>
-
 <br>
+<br>  
+<br>  
 <h3>🤩 Latest Blog Post</h3>
-
 """
 
-readme_text = f"📌 {markdown_text}{latest_blog_post_list}"
+readme_text = f"{markdown_text} 📌 {latest_blog_post_list}"
 
 with open("README.md", 'w', encoding='utf-8') as f:
     f.write(readme_text)
