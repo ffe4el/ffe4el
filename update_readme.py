@@ -54,13 +54,12 @@ markdown_text = """[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ffe4el&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffe4el&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></p>
 
-
-
-🤩 Latest Blog Post
+<br>
+<h3>🤩 Latest Blog Post</h3>
 
 """
 
-readme_text = f"{markdown_text}{latest_blog_post_list}"
+readme_text = f"📌 {markdown_text}{latest_blog_post_list}"
 
 with open("README.md", 'w', encoding='utf-8') as f:
     f.write(readme_text)
