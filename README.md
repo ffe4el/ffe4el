@@ -28,11 +28,11 @@
 
 
 
+[2023/7/18 - [HTTP] HTTP 메서드](https://ffe4el.tistory.com/75) <br>
+[2023/7/18 - [HTTP] HTTP란?](https://ffe4el.tistory.com/74) <br>
 [2023/7/18 - [HTTP] 인터넷 네트워크](https://ffe4el.tistory.com/73) <br>
 [2023/7/17 - [기술/논문리뷰][생성AI] SeqDeepFake: Detecting and Recovering Sequential DeepFake Manipulation](https://ffe4el.tistory.com/71) <br>
 [2023/7/17 - Spring - 빈 스코프](https://ffe4el.tistory.com/70) <br>
 [2023/7/16 - Spring - 빈 생명주기 콜백](https://ffe4el.tistory.com/69) <br>
 [2023/7/16 - Spring - 자동과 수동 주입의 올바른 운영 기준](https://ffe4el.tistory.com/68) <br>
 [2023/7/16 - Spring - 조회한 빈이 모두 필요할때는 List와 Map 사용](https://ffe4el.tistory.com/67) <br>
-[2023/7/15 - [논문리뷰][딥러닝/컴퓨터비젼] Bringing Old Photos Back to Life](https://ffe4el.tistory.com/66) <br>
-[2023/7/15 - [생물환경조절학회] 학교기사에 실리다..!](https://ffe4el.tistory.com/65) <br>
