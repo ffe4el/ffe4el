@@ -25,29 +25,28 @@ markdown_text = """[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg
 
 
 <!-- 사용하는 언어와 도구들 -->
-  <h4 align=center> languages and tools: </h4>
-<p align=center>
+📚 Stack <br>
 <!--   python -->
-  <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<!--   c++ -->
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<!--   java -->
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <!--   html -->
-  <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></code>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <!--   css -->
-  <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <!--   javascript -->
-  <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"></code>
-<!--   C -->
-  <code><img height="30" src="https://user-images.githubusercontent.com/93892724/210708533-60adaa42-cf77-4ffb-8576-246512979764.png"></code>
-<!--   C++ -->
-  <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></code>
-<!--   vs code -->
-  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<!--   pycharm -->
-  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png"></code>
-<!--   Clion -->
-<code><img height="30" src="https://user-images.githubusercontent.com/93892724/211053466-f8474354-71fd-486e-bacf-4b597d98dc8e.png"></code>
-<!--   jupyter -->
-  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></code>
-<br><br></p>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<!--   spring -->
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<!--   springboot -->
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<!--  django  -->
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<!-- flask -->
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<br><br>
   
   
 <!-- 깃허브레벨, 자주쓰는 언어 -->
