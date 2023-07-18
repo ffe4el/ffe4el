@@ -6,9 +6,12 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/백준아이디)
 </div>
 
+📬  Contact Email : codkan20@gmail.com
+
+👨🏻‍💻  Tech & Daily Blog : https://ffe4el.tistory.com
 
 <!-- 사용하는 언어와 도구들 -->
-📚 Lang & Stack <br>
+📚  Lang & Stack : <br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -22,6 +25,9 @@
 <br> 
 <br>  
 <h3>🤩 Latest Blog Post</h3>
+
+
+
 [2023/7/18 - [HTTP] 인터넷 네트워크](https://ffe4el.tistory.com/73) <br>
 [2023/7/17 - 뭘보노보노보노!](https://ffe4el.tistory.com/pages/%EB%AD%98%EB%B3%B4%EB%85%B8%EB%B3%B4%EB%85%B8%EB%B3%B4%EB%85%B8) <br>
 [2023/7/17 - [기술/논문리뷰][생성AI] SeqDeepFake: Detecting and Recovering Sequential DeepFake Manipulation](https://ffe4el.tistory.com/71) <br>
