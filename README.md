@@ -4,22 +4,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SOLA%20GITHUB🎀&fontSize=90&animation=fadeIn&fontAlignY=38&desc=studying%20GenerativeAI%20and%20FullStack&descAlignY=51&descAlign=62)
 <!-- <h1 align="center">HI 👋, I'M SOLA</h1> -->
 
-<!-- 고양이 밈 -->
-<!-- <h3 align="center"><img height="100" src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-Free-PNG.png"></h3><br> -->
-
-
-
-
-<!-- 인스타, 디코 주소 -->
-<div align=center><h4>
-  Contanct Me! &nbsp;
-  <a href="https://www.instagram.com/_ffe4el/">
-  <img align="middle" alt="SOLA's Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
-  <a href="https://discord.gg/c5AFv3E6qv">
-  <img align="middle" alt="SOLA's Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
-  <br>you can also visit my git-log! click here! &nbsp;
-  <a href="https://ffe4el.github.io/">
-  <img align="middle" alt="SOL-LOG" width="40px" src="https://user-images.githubusercontent.com/93892724/184592546-6030ce51-0d9c-469c-82b9-0dfe86177c65.png" /></a><br>
 
 <!-- 백준레벨 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/백준아이디)
@@ -60,3 +44,14 @@
 
 
   
+
+[2023/7/18 - [HTTP] 인터넷 네트워크](https://ffe4el.tistory.com/73) <br>
+[2023/7/17 - 뭘보노보노보노!](https://ffe4el.tistory.com/pages/%EB%AD%98%EB%B3%B4%EB%85%B8%EB%B3%B4%EB%85%B8%EB%B3%B4%EB%85%B8) <br>
+[2023/7/17 - [기술/논문리뷰][생성AI] SeqDeepFake: Detecting and Recovering Sequential DeepFake Manipulation](https://ffe4el.tistory.com/71) <br>
+[2023/7/17 - Spring - 빈 스코프](https://ffe4el.tistory.com/70) <br>
+[2023/7/16 - Spring - 빈 생명주기 콜백](https://ffe4el.tistory.com/69) <br>
+[2023/7/16 - Spring - 자동과 수동 주입의 올바른 운영 기준](https://ffe4el.tistory.com/68) <br>
+[2023/7/16 - Spring - 조회한 빈이 모두 필요할때는 List와 Map 사용](https://ffe4el.tistory.com/67) <br>
+[2023/7/15 - [논문리뷰][딥러닝/컴퓨터비젼] Bringing Old Photos Back to Life](https://ffe4el.tistory.com/66) <br>
+[2023/7/15 - [생물환경조절학회] 학교기사에 실리다..!](https://ffe4el.tistory.com/65) <br>
+[2023/7/14 - Spring - 조회 빈 2개 이상일때](https://ffe4el.tistory.com/64) <br>
