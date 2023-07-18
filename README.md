@@ -28,6 +28,7 @@
 
 
 
+[2023/7/18 - [HTTP] HTTP 메서드 활용](https://ffe4el.tistory.com/76) <br>
 [2023/7/18 - [HTTP] HTTP 메서드](https://ffe4el.tistory.com/75) <br>
 [2023/7/18 - [HTTP] HTTP란?](https://ffe4el.tistory.com/74) <br>
 [2023/7/18 - [HTTP] 인터넷 네트워크](https://ffe4el.tistory.com/73) <br>
@@ -35,4 +36,3 @@
 [2023/7/17 - Spring - 빈 스코프](https://ffe4el.tistory.com/70) <br>
 [2023/7/16 - Spring - 빈 생명주기 콜백](https://ffe4el.tistory.com/69) <br>
 [2023/7/16 - Spring - 자동과 수동 주입의 올바른 운영 기준](https://ffe4el.tistory.com/68) <br>
-[2023/7/16 - Spring - 조회한 빈이 모두 필요할때는 List와 Map 사용](https://ffe4el.tistory.com/67) <br>
