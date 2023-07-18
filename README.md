@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fffe4el&count_bg=%23FF7676&title_bg=%23000000&icon=openai.svg&icon_color=%23E5A0A0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+📌 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fffe4el&count_bg=%23FF7676&title_bg=%23000000&icon=openai.svg&icon_color=%23E5A0A0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 .
 
 
@@ -37,9 +37,8 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ffe4el&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffe4el&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></p>
 
-
-
-🤩 Latest Blog Post
+<br>
+<h3>🤩 Latest Blog Post</h3>
 
 [2023/7/18 - [HTTP] 인터넷 네트워크](https://ffe4el.tistory.com/73) <br>
 [2023/7/17 - 뭘보노보노보노!](https://ffe4el.tistory.com/pages/%EB%AD%98%EB%B3%B4%EB%85%B8%EB%B3%B4%EB%85%B8%EB%B3%B4%EB%85%B8) <br>
