@@ -9,7 +9,7 @@ on:
   pull_request:
     branches: [ main ]
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *" #매시 00분 마다 업데이트
 
 jobs:
   build:
