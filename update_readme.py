@@ -4,7 +4,7 @@ import os
 sola_blog_rss_url = "https://ffe4el.tistory.com/rss"
 rss_feed = feedparser.parse(sola_blog_rss_url)
 
-MAX_POST_NUM = 5
+MAX_POST_NUM = 7
 
 latest_blog_post_list = ""
 
