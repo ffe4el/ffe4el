@@ -28,11 +28,11 @@
 
 
 
+[2023/7/21 - [HTTP] 캐시와 쿠키는 서로 같은걸까?](https://ffe4el.tistory.com/81) <br>
+[2023/7/21 - [HTTP] 캐시](https://ffe4el.tistory.com/80) <br>
+[2023/7/21 - [HTTP] 쿠키](https://ffe4el.tistory.com/79) <br>
 [2023/7/19 - [HTTP] 상태코드 (aka. 200, 404 ...)](https://ffe4el.tistory.com/77) <br>
 [2023/7/18 - [HTTP] HTTP 메서드 활용](https://ffe4el.tistory.com/76) <br>
 [2023/7/18 - [HTTP] HTTP 메서드](https://ffe4el.tistory.com/75) <br>
 [2023/7/18 - [HTTP] HTTP란?](https://ffe4el.tistory.com/74) <br>
 [2023/7/18 - [HTTP] 인터넷 네트워크](https://ffe4el.tistory.com/73) <br>
-[2023/7/17 - [기술/논문리뷰][생성AI] SeqDeepFake: Detecting and Recovering Sequential DeepFake Manipulation](https://ffe4el.tistory.com/71) <br>
-[2023/7/17 - Spring - 빈 스코프](https://ffe4el.tistory.com/70) <br>
-[2023/7/16 - Spring - 빈 생명주기 콜백](https://ffe4el.tistory.com/69) <br>
