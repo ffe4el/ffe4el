@@ -23,21 +23,16 @@
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <br> 
-<br> 
-🧩 PS Lang :<br><br>
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<br> 
-<br> 
+<br>  
 <h3>🤩 Latest Blog Post</h3>
 
 
 
+[2023/7/31 - [Toyproject][Linux/Unix] 영화관 키오스크 프로젝트](https://ffe4el.tistory.com/84) <br>
+[2023/7/31 - [Spring] Spring MVC의 @ModelAttribute 어노테이션](https://ffe4el.tistory.com/83) <br>
 [2023/7/22 - [Spring] 간단한 쇼핑몰 예제](https://ffe4el.tistory.com/82) <br>
 [2023/7/21 - [HTTP] 캐시와 쿠키는 서로 같은걸까?](https://ffe4el.tistory.com/81) <br>
 [2023/7/21 - [HTTP] 캐시](https://ffe4el.tistory.com/80) <br>
 [2023/7/21 - [HTTP] 쿠키](https://ffe4el.tistory.com/79) <br>
 [2023/7/19 - [HTTP] 상태코드 (aka. 200, 404 ...)](https://ffe4el.tistory.com/77) <br>
 [2023/7/18 - [HTTP] HTTP 메서드 활용](https://ffe4el.tistory.com/76) <br>
-[2023/7/18 - [HTTP] HTTP 메서드](https://ffe4el.tistory.com/75) <br>
-[2023/7/18 - [HTTP] HTTP란?](https://ffe4el.tistory.com/74) <br>
