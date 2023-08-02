@@ -33,6 +33,7 @@
 
 
 
+[2023/8/1 - [Spring] 웹 애플리케이션의 이해...](https://ffe4el.tistory.com/87) <br>
 [2023/7/31 - [DP][백준] 9095 - 1, 2, 3 더하기  + DP 에 대해서 생각해보기...](https://ffe4el.tistory.com/86) <br>
 [2023/7/31 - [Spring] Spring MVC의 @PathVariable 어노테이션](https://ffe4el.tistory.com/85) <br>
 [2023/7/31 - [Toyproject][Linux/Unix] 영화관 키오스크 프로젝트](https://ffe4el.tistory.com/84) <br>
@@ -40,4 +41,3 @@
 [2023/7/22 - [Spring] 간단한 쇼핑몰 예제](https://ffe4el.tistory.com/82) <br>
 [2023/7/21 - [HTTP] 캐시와 쿠키는 서로 같은걸까?](https://ffe4el.tistory.com/81) <br>
 [2023/7/21 - [HTTP] 캐시](https://ffe4el.tistory.com/80) <br>
-[2023/7/21 - [HTTP] 쿠키](https://ffe4el.tistory.com/79) <br>
