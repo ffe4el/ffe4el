@@ -33,6 +33,7 @@
 
 
 
+[2023/8/8 - [Spring] 요청 매핑 핸들러 어뎁터의 구조](https://ffe4el.tistory.com/92) <br>
 [2023/8/7 - [Spring] 스프링 MVC 기본 기능](https://ffe4el.tistory.com/91) <br>
 [2023/8/7 - [Spring] 로깅 logging](https://ffe4el.tistory.com/90) <br>
 [2023/8/7 - [Spring] 스프링 MVC 구조](https://ffe4el.tistory.com/89) <br>
@@ -40,4 +41,3 @@
 [2023/8/1 - [Spring] 웹 애플리케이션의 이해...](https://ffe4el.tistory.com/87) <br>
 [2023/7/31 - [DP][백준] 9095 - 1, 2, 3 더하기  + DP 에 대해서 생각해보기...](https://ffe4el.tistory.com/86) <br>
 [2023/7/31 - [Spring] Spring MVC의 @PathVariable 어노테이션](https://ffe4el.tistory.com/85) <br>
-[2023/7/31 - [Toyproject][Linux/Unix] 영화관 키오스크 프로젝트](https://ffe4el.tistory.com/84) <br>
