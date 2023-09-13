@@ -33,6 +33,7 @@
 
 
 
+[2023/9/12 - [알고리즘]구현](https://ffe4el.tistory.com/96) <br>
 [2023/9/11 - [알고리즘]그리디](https://ffe4el.tistory.com/95) <br>
 [2023/9/10 - [브루트포스][백준]1018-체스판 다시 칠하기](https://ffe4el.tistory.com/94) <br>
 [2023/9/4 - [해커톤][호남의 얼굴]얼굴인식 출석 서비스](https://ffe4el.tistory.com/93) <br>
@@ -40,4 +41,3 @@
 [2023/8/7 - [Spring] 스프링 MVC 기본 기능](https://ffe4el.tistory.com/91) <br>
 [2023/8/7 - [Spring] 로깅 logging](https://ffe4el.tistory.com/90) <br>
 [2023/8/7 - [Spring] 스프링 MVC 구조](https://ffe4el.tistory.com/89) <br>
-[2023/8/3 - [Spring] 서블릿(servlet) aka. MVC 구버전](https://ffe4el.tistory.com/88) <br>
