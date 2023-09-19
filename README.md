@@ -1,5 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fffe4el&count_bg=%23FF7676&title_bg=%23000000&icon=openai.svg&icon_color=%23E5A0A0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-.
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SOLA%20GITHUB🎀&fontSize=90&animation=fadeIn&fontAlignY=38&desc=studying%20GenerativeAI%20and%20FullStack&descAlignY=51&descAlign=62)
 
 <!-- 백준레벨 -->
@@ -33,6 +33,7 @@
 
 
 
+[2023/9/19 - [C++] 연결리스트 (feat.바킹독)](https://ffe4el.tistory.com/99) <br>
 [2023/9/13 - [C++] 배열 (feat. 바킹독)](https://ffe4el.tistory.com/98) <br>
 [2023/9/13 - [JSP][MAC M1]이클립스 환경 설정 + 톰캣 연동](https://ffe4el.tistory.com/97) <br>
 [2023/9/12 - [알고리즘]구현](https://ffe4el.tistory.com/96) <br>
@@ -40,4 +41,3 @@
 [2023/9/10 - [브루트포스][백준]1018-체스판 다시 칠하기](https://ffe4el.tistory.com/94) <br>
 [2023/9/4 - [해커톤][호남의 얼굴]얼굴인식 출석 서비스](https://ffe4el.tistory.com/93) <br>
 [2023/8/8 - [Spring] 요청 매핑 핸들러 어뎁터의 구조](https://ffe4el.tistory.com/92) <br>
-[2023/8/7 - [Spring] 스프링 MVC 기본 기능](https://ffe4el.tistory.com/91) <br>
