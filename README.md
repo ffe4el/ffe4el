@@ -33,6 +33,7 @@
 
 
 
+[2023/11/9 - [책리뷰]커리어스킬 -존 손메즈 저](https://ffe4el.tistory.com/101) <br>
 [2023/10/10 - [알고리즘] BFS/DFS (feat. stack, queue)](https://ffe4el.tistory.com/100) <br>
 [2023/9/19 - [C++] 연결리스트 (feat.바킹독)](https://ffe4el.tistory.com/99) <br>
 [2023/9/13 - [C++] 배열 (feat. 바킹독)](https://ffe4el.tistory.com/98) <br>
@@ -40,4 +41,3 @@
 [2023/9/12 - [알고리즘]구현](https://ffe4el.tistory.com/96) <br>
 [2023/9/11 - [알고리즘]그리디](https://ffe4el.tistory.com/95) <br>
 [2023/9/10 - [브루트포스][백준]1018-체스판 다시 칠하기](https://ffe4el.tistory.com/94) <br>
-[2023/9/4 - [해커톤][호남의 얼굴]얼굴인식 출석 서비스](https://ffe4el.tistory.com/93) <br>
