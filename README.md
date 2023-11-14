@@ -33,11 +33,11 @@
 
 
 
+[2023/11/13 - [알고리즘] 이진탐색 (범위가 큰 수라면.. 이진탐색이다!)](https://ffe4el.tistory.com/104) <br>
+[2023/11/13 - [파이썬]빠른 입출력](https://ffe4el.tistory.com/103) <br>
+[2023/11/13 - [알고리즘] 정렬 (선택, 삽입, 퀵정렬..)](https://ffe4el.tistory.com/102) <br>
 [2023/11/9 - [책리뷰]커리어스킬 -존 손메즈 저](https://ffe4el.tistory.com/101) <br>
 [2023/10/10 - [알고리즘] BFS/DFS (feat. stack, queue)](https://ffe4el.tistory.com/100) <br>
 [2023/9/19 - [C++] 연결리스트 (feat.바킹독)](https://ffe4el.tistory.com/99) <br>
 [2023/9/13 - [C++] 배열 (feat. 바킹독)](https://ffe4el.tistory.com/98) <br>
 [2023/9/13 - [JSP][MAC M1]이클립스 환경 설정 + 톰캣 연동](https://ffe4el.tistory.com/97) <br>
-[2023/9/12 - [알고리즘]구현](https://ffe4el.tistory.com/96) <br>
-[2023/9/11 - [알고리즘]그리디](https://ffe4el.tistory.com/95) <br>
-[2023/9/10 - [브루트포스][백준]1018-체스판 다시 칠하기](https://ffe4el.tistory.com/94) <br>
