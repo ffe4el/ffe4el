@@ -33,6 +33,7 @@
 
 
 
+[2023/11/29 - [Mac/M1][MySQL][intellij] JSP프로젝트에 MySQL 연동하기](https://ffe4el.tistory.com/108) <br>
 [2023/11/28 - [토크콘서트]찾아가는 스타트업 커리어 콘서트(feat.당근마켓)](https://ffe4el.tistory.com/107) <br>
 [2023/11/28 - [Mac/M1][intelliJ] Dynamic web project 생성 + 톰캣 연동(인텔리제이 사용자 필수로 보셔야합니다~)](https://ffe4el.tistory.com/106) <br>
 [2023/11/27 - [알고리즘] 다이나믹 프로그래밍(DP)](https://ffe4el.tistory.com/105) <br>
@@ -40,4 +41,3 @@
 [2023/11/13 - [파이썬]빠른 입출력](https://ffe4el.tistory.com/103) <br>
 [2023/11/13 - [알고리즘] 정렬 (선택, 삽입, 퀵정렬..)](https://ffe4el.tistory.com/102) <br>
 [2023/11/9 - [책리뷰]커리어스킬 -존 손메즈 저](https://ffe4el.tistory.com/101) <br>
-[2023/10/10 - [알고리즘] BFS/DFS (feat. stack, queue)](https://ffe4el.tistory.com/100) <br>
