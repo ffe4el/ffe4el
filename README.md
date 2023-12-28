@@ -33,6 +33,7 @@
 
 
 
+[2023/12/27 - [정처기] 2020년6월 기출문제 풀이](https://ffe4el.tistory.com/112) <br>
 [2023/12/26 - [모바일/AndroidStudio] 도시열섬 어플리케이션 프로젝트](https://ffe4el.tistory.com/111) <br>
 [2023/12/26 - [JSP] 액션태그(ActionTag)란?](https://ffe4el.tistory.com/110) <br>
 [2023/12/2 - [SKT][DevRel] Dev Chat" 컨퍼런스 후기](https://ffe4el.tistory.com/109) <br>
@@ -40,4 +41,3 @@
 [2023/11/28 - [토크콘서트]찾아가는 스타트업 커리어 콘서트(feat.당근마켓)](https://ffe4el.tistory.com/107) <br>
 [2023/11/28 - [Mac/M1][intelliJ] Dynamic web project 생성 + 톰캣 연동(인텔리제이 사용자 필수로 보셔야합니다~)](https://ffe4el.tistory.com/106) <br>
 [2023/11/27 - [알고리즘] 다이나믹 프로그래밍(DP)](https://ffe4el.tistory.com/105) <br>
-[2023/11/13 - [알고리즘] 이진탐색 (범위가 큰 수라면.. 이진탐색이다!)](https://ffe4el.tistory.com/104) <br>
