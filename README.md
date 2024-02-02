@@ -2,9 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SOLA%20GITHUB🎀&fontSize=90&animation=fadeIn&fontAlignY=38&desc=studying%20GenerativeAI%20and%20FullStack&descAlignY=51&descAlign=62)
 
-<!-- 백준레벨 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/백준아이디)
-</div>
+# <!-- 백준레벨 -->
+# [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=codkan)](https://solved.ac/백준아이디)
+# </div>
 
 📬  Contact Email : codkan20@gmail.com
 
