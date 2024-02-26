@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SOLA%20GITHUB🎀&fontSize=90&animation=fadeIn&fontAlignY=38&desc=studying%20GenerativeAI%20and%20BackEnd&descAlignY=51&descAlign=62)
 
-
 📬  Contact Email : codkan20@gmail.com
 
 👨🏻‍💻  Tech & Daily Blog : https://ffe4el.tistory.com
