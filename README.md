@@ -30,6 +30,7 @@
 
 
 
+[2024/2/26 - [KNIME] KNIME L1 Certificate](https://ffe4el.tistory.com/116) <br>
 [2024/2/21 - [Qualcomm Institute][UCSD] Reflections on the Artificial Intelligence Development Project](https://ffe4el.tistory.com/115) <br>
 [2023/12/30 - [정처기] 2020년 8월 기출문제 풀이](https://ffe4el.tistory.com/113) <br>
 [2023/12/27 - [정처기] 2020년 6월 기출문제 풀이](https://ffe4el.tistory.com/112) <br>
@@ -37,4 +38,3 @@
 [2023/12/26 - [JSP] 액션태그(ActionTag)란?](https://ffe4el.tistory.com/110) <br>
 [2023/12/2 - [SKT][DevRel] Dev Chat" 컨퍼런스 후기](https://ffe4el.tistory.com/109) <br>
 [2023/11/29 - [Mac/M1][MySQL][intellij] JSP프로젝트에 MySQL 연동하기](https://ffe4el.tistory.com/108) <br>
-[2023/11/28 - [토크콘서트]찾아가는 스타트업 커리어 콘서트(feat.당근마켓)](https://ffe4el.tistory.com/107) <br>
