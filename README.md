@@ -1,5 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fffe4el&count_bg=%23FF7676&title_bg=%23000000&icon=openai.svg&icon_color=%23E5A0A0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SOLA%20GITHUB🎀&fontSize=90&animation=fadeIn&fontAlignY=38&desc=studying%20GenerativeAI%20and%20BackEnd&descAlignY=51&descAlign=62)
+
+
 📬  Contact Email : codkan20@gmail.com
 
 👨🏻‍💻  Tech & Daily Blog : https://ffe4el.tistory.com
@@ -27,11 +30,11 @@
 
 
 
+[2024/5/17 - [DataBase][Mac/M1] MySQL과 Django 연동 (계정생성, 권한부여, DB생성)](https://ffe4el.tistory.com/119) <br>
+[2024/5/17 - [DataBase][Mac/M1] MySQL 또 말썽부리다....](https://ffe4el.tistory.com/118) <br>
 [2024/2/26 - [KNIME] KNIME L1 Certificate](https://ffe4el.tistory.com/116) <br>
 [2024/2/21 - [Qualcomm Institute][UCSD] Reflections on the Artificial Intelligence Development Project](https://ffe4el.tistory.com/115) <br>
 [2023/12/30 - [정처기] 2020년 8월 기출문제 풀이](https://ffe4el.tistory.com/113) <br>
 [2023/12/27 - [정처기] 2020년 6월 기출문제 풀이](https://ffe4el.tistory.com/112) <br>
 [2023/12/26 - [모바일/AndroidStudio] 도시열섬 어플리케이션 프로젝트](https://ffe4el.tistory.com/111) <br>
 [2023/12/26 - [JSP] 액션태그(ActionTag)란?](https://ffe4el.tistory.com/110) <br>
-[2023/12/2 - [SKT][DevRel] Dev Chat&quot; 컨퍼런스 후기](https://ffe4el.tistory.com/109) <br>
-[2023/11/29 - [Mac/M1][MySQL][intellij] JSP프로젝트에 MySQL 연동하기](https://ffe4el.tistory.com/108) <br>
