@@ -11,7 +11,7 @@ for idx, feed in enumerate(rss_feed['entries']):
     if idx >= MAX_POST_NUM:
         break
     feed_date = feed['published_parsed']
-    latest_blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
+    latest_blog_post_list += f"{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - <a href='{feed['link']}'>{feed['title']}</a><br>\n"
 
 # 기본 README.md 내용 정의
 markdown_text = """

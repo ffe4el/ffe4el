@@ -26,10 +26,10 @@
 adviser prof. Junyong Noh 
 
 <h3>🤩 Latest Blog Post</h3>
-[2025/1/8 - [Code Build][Ubuntu] 3D Gaussian splatting](https://ffe4el.tistory.com/131) <br>
-[2024/12/13 - [Paper Review] 3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://ffe4el.tistory.com/130) <br>
-[2024/12/10 - [Paper Review] NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://ffe4el.tistory.com/129) <br>
-[2024/12/9 - [Paper Review] DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://ffe4el.tistory.com/128) <br>
-[2024/12/4 - [Paper Review] DeepVoxels: Learning Persistent 3D Feature Embeddings](https://ffe4el.tistory.com/127) <br>
-[2024/11/23 - [DL/WIL] 3 텍스트 데이터를 위한 인공 신경망](https://ffe4el.tistory.com/126) <br>
-[2024/11/19 - [DL/WIL] 2 합성곱 신경망(Convolution Neural Network, CNN)](https://ffe4el.tistory.com/125) <br>
+2025/1/8 - <a href='https://ffe4el.tistory.com/131'>[Code Build][Ubuntu] 3D Gaussian splatting</a><br>
+2024/12/13 - <a href='https://ffe4el.tistory.com/130'>[Paper Review] 3D Gaussian Splatting for Real-Time Radiance Field Rendering</a><br>
+2024/12/10 - <a href='https://ffe4el.tistory.com/129'>[Paper Review] NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis</a><br>
+2024/12/9 - <a href='https://ffe4el.tistory.com/128'>[Paper Review] DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation</a><br>
+2024/12/4 - <a href='https://ffe4el.tistory.com/127'>[Paper Review] DeepVoxels: Learning Persistent 3D Feature Embeddings</a><br>
+2024/11/23 - <a href='https://ffe4el.tistory.com/126'>[DL/WIL] 3 텍스트 데이터를 위한 인공 신경망</a><br>
+2024/11/19 - <a href='https://ffe4el.tistory.com/125'>[DL/WIL] 2 합성곱 신경망(Convolution Neural Network, CNN)</a><br>
