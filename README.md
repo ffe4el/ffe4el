@@ -22,6 +22,9 @@
 
 <br> 
 
+Currently in *KAIST* Visual Media Lab,
+adviser prof.Jongyong Noh 
+
 <h3>🤩 Latest Blog Post</h3>
 [2025/1/8 - [Code Build][Ubuntu] 3D Gaussian splatting](https://ffe4el.tistory.com/131) <br>
 [2024/12/13 - [Paper Review] 3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://ffe4el.tistory.com/130) <br>
