@@ -22,7 +22,7 @@
 
 <br> 
 
-Currently in *KAIST* Visual Media Lab,
+🏫 Currently in **KAIST** Visual Media Lab,
 adviser prof.Jongyong Noh 
 
 <h3>🤩 Latest Blog Post</h3>
