@@ -1,6 +1,4 @@
 
-
-
 📬  Contact Email : codkan20@gmail.com
 
 👨🏻‍💻  Tech & Daily Blog : https://ffe4el.tistory.com
@@ -25,14 +23,10 @@
 <br> 
 
 <h3>🤩 Latest Blog Post</h3>
-
-
-
-[2024/5/17 - [DataBase][Mac/M1] MySQL과 Django 연동 (계정생성, 권한부여, DB생성)](https://ffe4el.tistory.com/119) <br>
-[2024/5/17 - [DataBase][Mac/M1] MySQL 또 말썽부리다....](https://ffe4el.tistory.com/118) <br>
-[2024/2/26 - [KNIME] KNIME L1 Certificate](https://ffe4el.tistory.com/116) <br>
-[2024/2/21 - [Qualcomm Institute][UCSD] Reflections on the Artificial Intelligence Development Project](https://ffe4el.tistory.com/115) <br>
-[2023/12/30 - [정처기] 2020년 8월 기출문제 풀이](https://ffe4el.tistory.com/113) <br>
-[2023/12/27 - [정처기] 2020년 6월 기출문제 풀이](https://ffe4el.tistory.com/112) <br>
-[2023/12/26 - [모바일/AndroidStudio] 도시열섬 어플리케이션 프로젝트](https://ffe4el.tistory.com/111) <br>
-[2023/12/26 - [JSP] 액션태그(ActionTag)란?](https://ffe4el.tistory.com/110) <br>
+[2025/1/8 - [Code Build][Ubuntu] 3D Gaussian splatting](https://ffe4el.tistory.com/131) <br>
+[2024/12/13 - [Paper Review] 3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://ffe4el.tistory.com/130) <br>
+[2024/12/10 - [Paper Review] NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://ffe4el.tistory.com/129) <br>
+[2024/12/9 - [Paper Review] DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://ffe4el.tistory.com/128) <br>
+[2024/12/4 - [Paper Review] DeepVoxels: Learning Persistent 3D Feature Embeddings](https://ffe4el.tistory.com/127) <br>
+[2024/11/23 - [DL/WIL] 3 텍스트 데이터를 위한 인공 신경망](https://ffe4el.tistory.com/126) <br>
+[2024/11/19 - [DL/WIL] 2 합성곱 신경망(Convolution Neural Network, CNN)](https://ffe4el.tistory.com/125) <br>
