@@ -22,8 +22,8 @@
 
 <br> 
 
-🏫 Currently in **KAIST** Visual Media Lab,
-adviser prof.Jongyong Noh 
+🏫 Currently in **KAIST** Visual Media Lab, <br>
+adviser prof. Junyong Noh 
 
 <h3>🤩 Latest Blog Post</h3>
 [2025/1/8 - [Code Build][Ubuntu] 3D Gaussian splatting](https://ffe4el.tistory.com/131) <br>
