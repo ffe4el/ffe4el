@@ -26,10 +26,10 @@
 adviser prof. Junyong Noh 
 
 <h3>🤩 Latest Blog Post</h3>
-2025/1/8 - <a href='https://ffe4el.tistory.com/131'>[Code Build][Ubuntu] 3D Gaussian splatting</a><br>
-2024/12/13 - <a href='https://ffe4el.tistory.com/130'>[Paper Review] 3D Gaussian Splatting for Real-Time Radiance Field Rendering</a><br>
-2024/12/10 - <a href='https://ffe4el.tistory.com/129'>[Paper Review] NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis</a><br>
-2024/12/9 - <a href='https://ffe4el.tistory.com/128'>[Paper Review] DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation</a><br>
-2024/12/4 - <a href='https://ffe4el.tistory.com/127'>[Paper Review] DeepVoxels: Learning Persistent 3D Feature Embeddings</a><br>
-2024/11/23 - <a href='https://ffe4el.tistory.com/126'>[DL/WIL] 3 텍스트 데이터를 위한 인공 신경망</a><br>
-2024/11/19 - <a href='https://ffe4el.tistory.com/125'>[DL/WIL] 2 합성곱 신경망(Convolution Neural Network, CNN)</a><br>
+2025/4/14 - <a href='https://ffe4el.tistory.com/155'>[Blender4.4][Window] 블렌더 카메라 설치해서 애니메이션 렌더링 하기 (RGB Video)</a><br>
+2025/4/14 - <a href='https://ffe4el.tistory.com/154'>[Blender4.4][Window] Depth Map 추출하기</a><br>
+2025/3/31 - <a href='https://ffe4el.tistory.com/153'>[Notable] Inference time vs Rendering time</a><br>
+2025/3/18 - <a href='https://ffe4el.tistory.com/152'>[Notable] NeuS (Neural Implicit Surface)</a><br>
+2025/3/18 - <a href='https://ffe4el.tistory.com/151'>[Paper Review] SyncDreamer: Generating Multiview-Consistent Images From a Single-View Image</a><br>
+2025/3/13 - <a href='https://ffe4el.tistory.com/150'>[Paper Review] Wonder3D: Single Image to 3D Using Cross-Domain Diffusion</a><br>
+2025/3/11 - <a href='https://ffe4el.tistory.com/149'>[Paper Review] ThemeStation: Generating Theme-Aware 3D assets from Few Exemplars</a><br>
