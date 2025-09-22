@@ -1,5 +1,5 @@
 
-📬  Contact Email : codkan20@gmail.com
+📬  Contact Email : solakim@kaist.ac.kr
 
 👨🏻‍💻  Tech & Daily Blog : https://ffe4el.tistory.com
 
